@@ -30,6 +30,10 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <AndroidLinkMode>None</AndroidLinkMode>
+    <AotAssemblies>false</AotAssemblies>
+    <EnableLLVM>false</EnableLLVM>
+    <AndroidEnableProfiledAot>false</AndroidEnableProfiledAot>
+    <BundleAssemblies>false</BundleAssemblies>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -92,8 +96,8 @@
     <Folder Include="Resources\drawable-xxxhdpi\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BoilerConvienceFinder\BoilerConvenienceFinder.csproj">
-      <Project>{05B3AD75-BB9D-4FA9-BCC2-800FA7B411FD}</Project>
+    <ProjectReference Include="..\BoilerConvenienceFinder\BoilerConvenienceFinder.csproj">
+      <Project>{4247e8b5-003d-4dd9-bb8f-65fc98ac946e}</Project>
       <Name>BoilerConvenienceFinder</Name>
     </ProjectReference>
   </ItemGroup>
