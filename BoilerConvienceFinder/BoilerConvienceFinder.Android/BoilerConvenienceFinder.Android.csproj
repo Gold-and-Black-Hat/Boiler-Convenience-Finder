@@ -92,9 +92,9 @@
     <Folder Include="Resources\drawable-xxxhdpi\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BoilerConvienceFinder\BoilerConvienceFinder.csproj">
-      <Project>{5A94B1B2-6F4E-481D-94A2-A932C85D78F7}</Project>
-      <Name>BoilerConvienceFinder</Name>
+    <ProjectReference Include="..\BoilerConvienceFinder\BoilerConvenienceFinder.csproj">
+      <Project>{05B3AD75-BB9D-4FA9-BCC2-800FA7B411FD}</Project>
+      <Name>BoilerConvenienceFinder</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

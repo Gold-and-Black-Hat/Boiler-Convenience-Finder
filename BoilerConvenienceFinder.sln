@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.779
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoilerConvienceFinder.Android", "BoilerConvienceFinder\BoilerConvienceFinder.Android\BoilerConvienceFinder.Android.csproj", "{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoilerConvenienceFinder.Android", "BoilerConvienceFinder\BoilerConvienceFinder.Android\BoilerConvenienceFinder.Android.csproj", "{24CE3C36-16B9-426D-AA0C-5961ECF8D88C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoilerConvienceFinder.iOS", "BoilerConvienceFinder\BoilerConvienceFinder.iOS\BoilerConvienceFinder.iOS.csproj", "{BADDB94B-971D-4839-94BF-54E3EE784DC2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoilerConvenienceFinder.iOS", "BoilerConvienceFinder\BoilerConvienceFinder.iOS\BoilerConvenienceFinder.iOS.csproj", "{BADDB94B-971D-4839-94BF-54E3EE784DC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoilerConvienceFinder", "BoilerConvienceFinder\BoilerConvienceFinder\BoilerConvienceFinder.csproj", "{05B3AD75-BB9D-4FA9-BCC2-800FA7B411FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BoilerConvenienceFinder", "BoilerConvienceFinder\BoilerConvienceFinder\BoilerConvenienceFinder.csproj", "{05B3AD75-BB9D-4FA9-BCC2-800FA7B411FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
